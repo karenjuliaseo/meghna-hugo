@@ -1,4 +1,4 @@
-baseURL = "https://seotestsite.netlify.com"
+baseURL = "https://seoresourcelab.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
