@@ -1,7 +1,6 @@
+---
 - id: blogTitle
   translation: Latest Post
-- id: readMore
-  translation: Read more
 - id: viewAllPost
   translation: View All Post
 - id: share
@@ -26,5 +25,3 @@
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
