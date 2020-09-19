@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: https://res.cloudinary.com/seo-lab/image/upload/v1600524068/seo-support-workspace-mac-mic_ouriqu.jpg
   bg_image: https://res.cloudinary.com/seo-lab/image/upload/v1600524068/seo-support-workspace-mac-mic_ouriqu.jpg
   icon: ''
   title: White Label SEO
