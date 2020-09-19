@@ -53,7 +53,7 @@ weight = 7
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "https://res.cloudinary.com/seo-lab/image/upload/v1600527096/Seo-support-lab-Logo_tranparent-white-large-230x64_bgvu5q.png"
 post_share = true
 [params.map]
 enable = true
